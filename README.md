@@ -54,7 +54,7 @@ git branch -M main
 
 Renames the default branch to `main`.
 
-git remote add origin https://github.com/username/billing-system.git
+git remote add origin https://github.com/karthikeya-raparla/billing-system.git
 
 Connects the local project to a remote GitHub repository.
 
@@ -145,5 +145,6 @@ git commit -m "Resolved merge conflict in billing logic"
 Commits the resolved code.
 git push origin main
 Pushes the final merged code to GitHub.
+
 
 
