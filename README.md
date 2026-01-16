@@ -12,7 +12,7 @@ git add .
 git commit -m "Initial project structure for billing system"
 
 git branch -M main
-git remote add origin https://github.com/username/billing-system.git
+git remote add origin https://github.com/karthikeyaraparla/billing-system.git
 git push -u origin main
 
 git checkout -b feature/add-billing-logic
@@ -31,3 +31,4 @@ git add src/app.py
 git commit -m "Resolved merge conflict in billing logic"
 git push origin main
 ```
+
