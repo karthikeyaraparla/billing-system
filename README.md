@@ -144,7 +144,6 @@ Marks the conflict as resolved.
 git commit -m "Resolved merge conflict in billing logic"
 Commits the resolved code.
 git push origin main
-
-
 Pushes the final merged code to GitHub.
+
 
